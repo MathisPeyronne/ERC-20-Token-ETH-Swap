@@ -19,3 +19,4 @@ Launch the webserver(Hosted locally on port 3000):
 ```Bash
 npm run start
 ```
+Finally, Connect your MetaMask to the ganache blockchain :)
